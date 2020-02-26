@@ -46,7 +46,7 @@
 	- DP
 		- multi dimensional
 		- memoization
-		- pagination
+		- divide and conquer
 	- Dijkstra
 	- Floyd Warshall
 	- Topology Sort
