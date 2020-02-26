@@ -38,9 +38,7 @@ int     f_strlen(char *str)
 
     pt = str;
     while (*str)
-    {
         str++;
-    }
     return (str - pt);
 }
 
@@ -61,10 +59,12 @@ int     *create(int n)
 
 int     retrieve(int *arr, int idx)
 {
+    char *str;
+    
+    str = "CANNOT RETRIEVE ARRAY ELEMENT!\n";
     if (idx >= ARRAY_SIZE || idx < 0)
     {
-        write(1, "CANNOT RETRIEVE ARRAY ELEMENT!\n",
-         f_strlen("CANNOT RETRIEVE ARRAY ELEMENT!\n"));
+        write(1, str, f_strlen(str));
         return (-1);
     }
     return (arr[idx]);
