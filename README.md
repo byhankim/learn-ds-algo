@@ -2,7 +2,7 @@
 - at least one concept each and everyday to keep myself motivated.
 - primary language will be C.
 - DS
-	[v] abstract data types
+	- abstract data types
 	- array
 	- list (linked, single/double)
 	- stack
