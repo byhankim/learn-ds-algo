@@ -7,7 +7,7 @@ int     f_strlen(char *str);
 int     *create(int n);
 int     retrieve(int *arr, int idx);
 void    store(int *arr, int i, int e);
-#include <stdio.h>
+
 int     main(void)
 {
 
