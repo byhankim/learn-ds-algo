@@ -15,7 +15,6 @@ int     main(void)
     int i;
 
     i = 0;
-    temp = -1;
     /*
     arr = create(5);
     */
