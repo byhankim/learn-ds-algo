@@ -1,6 +1,5 @@
 #include <unistd.h>
 #include <stdlib.h>
-
 # define ARRAY_SIZE 5
 
 int     f_strlen(char *str);
