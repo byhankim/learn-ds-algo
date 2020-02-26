@@ -1,0 +1,55 @@
+# learn-ds-algo
+- at least one concept each and everyday to keep myself motivated.
+- primary language will be C.
+- DS
+	- abstract data types
+	- array
+	- list (linked, single/double)
+	- stack
+	- queue / dequeue
+	- trees
+		- binary
+		- binary search tree
+		- red-black tree
+	- map
+	- set
+	- heap
+	- hash table
+	- graphs
+		- directed
+		- undirected
+		- weighted
+	- trie(not certain, src from reddit)
+	- linked hash map
+- Algorithms
+	- big O / time / space complexity
+	- Sort
+		- bubble
+		- selection
+		- quick
+		- merge
+		- Cpp STL sort()
+		- heap
+		- counting
+		- radix
+	- Search (graph)
+		- BFS (Breath First Search)
+		- DFS (Depth First Search)
+	- Greedy
+	- Minimum Spanning Trees
+	- Union-Find
+	- Kruskal
+	- DP
+	- Strings
+		- KMP
+		- Manacher
+	- DP
+		- multi dimensional
+		- memoization
+		- pagination
+	- Dijkstra
+	- Floyd Warshall
+	- Topology Sort
+	- Biparite
+	- ...
+- RIP
