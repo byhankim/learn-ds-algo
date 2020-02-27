@@ -1,12 +1,12 @@
 # learn-ds-algo
 - at least one concept each and everyday to keep myself motivated.
-- primary language will be C.
+- primary language will be C, Cpp
 - DS
 	- abstract data types
 	- array
-	- list (linked, single/double)
 	- stack
-	- queue / dequeue
+	- queue / deque
+	- list (linked, single/double)
 	- trees
 		- binary
 		- binary search tree
